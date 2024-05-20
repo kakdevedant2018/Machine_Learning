@@ -1,0 +1,8 @@
+Step 1: Defining Problem Statement and data collection
+Step 2: Exploratory Data Analysis
+Step 3: Feature Engineering and Selection
+Step 4: Data Preparation for modeling (Train/Test split)
+Step 5: Model Building
+Step 6: Model Validation and Evaluation
+Step 7: Model Tuning
+Step 8: Model Deployment
